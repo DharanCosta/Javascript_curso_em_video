@@ -1,0 +1,31 @@
+body{
+    background-color: #47b7d3;
+    font: normal 15pt Arial;
+
+
+}
+
+header{
+    color: aliceblue;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px #88888885;
+}
+
+footer{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+
+#foto{
+   height: 300px;
+   border-radius: 30px;
+}
